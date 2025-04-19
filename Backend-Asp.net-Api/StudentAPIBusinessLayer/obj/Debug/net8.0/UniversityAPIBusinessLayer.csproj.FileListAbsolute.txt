@@ -1,0 +1,15 @@
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\bin\Debug\net8.0\UniversityAPIBusinessLayer.deps.json
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\bin\Debug\net8.0\UniversityAPIBusinessLayer.dll
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\bin\Debug\net8.0\UniversityAPIBusinessLayer.pdb
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\bin\Debug\net8.0\UniversityDataAccessLayer.dll
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\bin\Debug\net8.0\UniversityDataAccessLayer.pdb
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\obj\Debug\net8.0\UniversityAPIBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\obj\Debug\net8.0\UniversityAPIBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\obj\Debug\net8.0\UniversityAPIBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\obj\Debug\net8.0\UniversityAPIBusinessLayer.AssemblyInfo.cs
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\obj\Debug\net8.0\UniversityAPIBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\obj\Debug\net8.0\Universi.78F8D23E.Up2Date
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\obj\Debug\net8.0\UniversityAPIBusinessLayer.dll
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\obj\Debug\net8.0\refint\UniversityAPIBusinessLayer.dll
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\obj\Debug\net8.0\UniversityAPIBusinessLayer.pdb
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentAPIBusinessLayer\obj\Debug\net8.0\ref\UniversityAPIBusinessLayer.dll

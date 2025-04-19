@@ -1,0 +1,12 @@
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\bin\Debug\net8.0\UniversityDataAccessLayer.deps.json
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\bin\Debug\net8.0\UniversityDataAccessLayer.dll
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\bin\Debug\net8.0\UniversityDataAccessLayer.pdb
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\obj\Debug\net8.0\UniversityDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\obj\Debug\net8.0\UniversityDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\obj\Debug\net8.0\UniversityDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\obj\Debug\net8.0\UniversityDataAccessLayer.AssemblyInfo.cs
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\obj\Debug\net8.0\UniversityDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\obj\Debug\net8.0\UniversityDataAccessLayer.dll
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\obj\Debug\net8.0\refint\UniversityDataAccessLayer.dll
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\obj\Debug\net8.0\UniversityDataAccessLayer.pdb
+C:\Users\ahmad\OneDrive\Desktop\AliUniversity\StudentDataAccessLayer\obj\Debug\net8.0\ref\UniversityDataAccessLayer.dll
